@@ -25,7 +25,6 @@ Clone your repo there.
 Setup Otto
 	
 	otto compile
-	bash bento.sh
 	otto dev
 	otto dev ssh
 
