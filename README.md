@@ -13,7 +13,7 @@ Place Otto somewhere like (~/zsh) and add the following to bash profile (or ~/.z
 
 **Setup Repo & Otto**
 
-Clone this repo, add your app, setup Otto, run bento.sh (which replaces hashicorp/precise64 (12.04 LTS) by bento/ubuntu_14.04 without which the Mongo dependency breaks (Docker problem)). Setup Otto VMs. Enter VM.
+Clone this repo, add your app, setup Otto, setup Otto VMs. Enter VM.
 
 	git clone https://github.com/didjeridou/otto-node-mongo
 	cd otto-node-mongo
